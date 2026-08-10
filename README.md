@@ -35,6 +35,8 @@ For this analysis, I selected 10 genre categories from the source dataset, prima
 - grunge
 - metal-misc
 
+**Note:** metal-misc is the source dataset's miscellaneous metal category (misc = miscellaneous).
+
 Each selected genre contains 50 tracks.
 
 `popularity` represents Spotify's 0–100 track popularity score rather than a percentage. In this project, Average Popularity is calculated as the arithmetic mean of the track popularity scores within each genre.
